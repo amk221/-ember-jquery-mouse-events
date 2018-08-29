@@ -4,7 +4,7 @@ App demoing issues with mouse enter/leave events in an Ember app with jQuery opt
 
 Related issue: https://github.com/emberjs/ember.js/issues/16591
 
-<img src="http://share.capsulecrm.com/c861a56f9862">
+<img src="https://dha4w82d62smt.cloudfront.net/items/2f3a1j0v3C3f3u3D2Y1d/Screen%20Recording%202018-08-29%20at%2012.13%20pm.gif?X-CloudApp-Visitor-Id=c6e6fccdc66490d3ab83fc5d73437774&v=2c779538">
 
 ## Prerequisites
 
