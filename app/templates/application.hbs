@@ -1,5 +1,27 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-{{welcome-page}}
-{{!-- Feel free to remove this! --}}
+{{#x-outer}}
+  {{#link-to "application"}}
+    Hello World
+  {{/link-to}}
+{{/x-outer}}
 
-{{outlet}}
+<br><br>
+
+{{#x-outer}}
+  {{#x-inner}}
+    Hello World
+  {{/x-inner}}
+{{/x-outer}}
+
+<br><br>
+
+{{#x-outer}}
+  <div>
+    Hello World
+  </div>
+{{/x-outer}}
+
+<br><br>
+
+{{#x-outer}}
+  Hello World
+{{/x-outer}}
