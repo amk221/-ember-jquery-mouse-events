@@ -1,7 +1,10 @@
 # example
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+App demoing issues with mouse enter/leave events in an Ember app with jQuery optional feature switched off
+
+Related issue: https://github.com/emberjs/ember.js/issues/16591
+
+<img src="http://share.capsulecrm.com/c861a56f9862">
 
 ## Prerequisites
 
